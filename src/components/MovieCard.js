@@ -19,7 +19,7 @@ const MovieCard = ({ elem, handleDelete }) => {
             {elem.title}
           </Card.Title>
           <Card.Text>{elem.description}</Card.Text>
-          <Rating initialValue={elem.rating} size={30} />
+          <Rating initialValue={elem.rating} size={30} readonly />
 
           <Button
             variant="primary"
