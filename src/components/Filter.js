@@ -35,7 +35,7 @@ const Filter = ({ handleSearch, handleRateSearch }) => {
           <Form.Control
             onChange={(e) => handleRateSearch(e.target.value)}
             type="text"
-            placeholder="Enter the movie 's description"
+            placeholder="Enter the movie 's rate"
             style={{
               textAlign: "center",
               height: 30,
