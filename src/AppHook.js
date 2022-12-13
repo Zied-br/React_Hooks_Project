@@ -30,7 +30,7 @@ const AppHook = () => {
       id: v4(),
       title: "Asfour Stah",
       description:
-        "  is a 2016 American romantic musical comedy-drama film written and directed by Damien Chazelle. It stars Ryan Gosling and Emma Stone as a struggling jazz pianist and an aspiring actress.",
+        " is a Tunisian film made in 1990, the first fiction feature film by the director Ferid Boughedir.The boy discovers the pleasures of life as his family adopts a teen girl. ",
       urlPoster:
         "https://m.media-amazon.com/images/I/419PAuvTOCL._AC_SY1000_.jpg",
       rating: 0,
